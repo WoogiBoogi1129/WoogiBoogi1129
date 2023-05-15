@@ -1,7 +1,6 @@
 숭실대학교 재학중인 황태욱입니다.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi1129&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=WoogiBoogi1129&show_icons=true">
---------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi&layout=compact)](https://github.com/WoogiBoogi/github-readme-stats)
 
 <div align="center">
   ✨ Flatforms & Languages ✨<br/><br/>
