@@ -1,7 +1,7 @@
 숭실대학교 재학중인 황태욱입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi&layout=compact)](https://github.com/WoogiBoogi/github-readme-stats)<br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogiBoogi&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogiBoogi&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi&layout=demo&theme=radical)
 
 
 <div align="center">
