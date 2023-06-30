@@ -24,6 +24,8 @@
 
 
   ![WoogiBoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogiBoogi1129&show_icons=true&theme=dark)
+
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi1129&layout=demo&theme=dark)
   
   
