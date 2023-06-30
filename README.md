@@ -24,9 +24,6 @@
 
 
   ![WoogiBoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogiBoogi1129&show_icons=true&theme=dark)
-
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogiBoogi1129&layout=demo&theme=dark)
   
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwoogiboogi1129)](https://solved.ac/hwoogiboogi1129)
