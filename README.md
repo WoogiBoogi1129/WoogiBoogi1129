@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Virtual Box-183A61?style=flat&logo=virtualbox&logoColor=white"/>
   
   
-  </br>📞 SNS ☎<br/><br/>
+  </br><h3>📞 SNS ☎</h3><br/><br/>
   <img src="https://img.shields.io/badge/h.taeuk_99-E4405F?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/hwoogiboogi1129@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </div>
 
