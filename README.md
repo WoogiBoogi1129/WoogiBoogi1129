@@ -1,13 +1,10 @@
-🙌 반갑습니다. 황태욱입니다.
+🙌 Welcome My Git Page!.
 -------------------------
 <div align="center">
   <h3>👋 Introduction 👋</h3>
   
-  
+  숭실대학교 DCN 연구실 연구원 재직 [2024.06~]
   숭실대학교 전자정보공학부 IT융합전공 졸업 [2024.02] 📚
-  
-  
-  클라우드 아키텍처 분야에 관심을 가지고 공부중입니다! 
 </div>
   
 <div align="center">
@@ -21,9 +18,3 @@
   </br><h3>📞 SNS ☎</h3>
   <img src="https://img.shields.io/badge/h.taeuk_99-E4405F?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/hwoogiboogi1129@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </div>
-
-
-  ![WoogiBoogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogiBoogi1129&show_icons=true&theme=dark)
-  
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwoogiboogi1129)](https://solved.ac/hwoogiboogi1129)
