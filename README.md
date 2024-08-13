@@ -17,5 +17,5 @@
   
   
   </br><h3>📞 SNS ☎</h3>
-  <img src="https://img.shields.io/badge/h.taeuk_99-E4405F?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/hwoogiboogi1129@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/h.taeuk_99-E4405F?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/taeuk.h@dcn.ac.kr-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </div>
